@@ -5,5 +5,6 @@ application.listen(application.get('port'), () => {
     'App is running at http://localhost:%d in %s mode',
     application.get('port'),
     application.get('env')
+    application.get('type')
   );
 });
