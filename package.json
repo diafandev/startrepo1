@@ -17,6 +17,7 @@
     "Node.js"
   ],
   "author": "Leonardo Campello",
+  "mainScs":"branch",
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
     "@commitlint/config-conventional": "^15.0.0",
